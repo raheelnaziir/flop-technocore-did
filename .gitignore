@@ -1,0 +1,8 @@
+# NEVER commit this. There is no recovery if it leaks or is lost.
+keys/agent.ed25519.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
